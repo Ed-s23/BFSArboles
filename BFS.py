@@ -1,5 +1,5 @@
 from arbol import Nodo
-
+ 
 def buscar_solucion_BFS(estado_inicial, solucion_objetivo):
     solucionado = False
     nodos_visitados = []
